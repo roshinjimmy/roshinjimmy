@@ -5,7 +5,7 @@
 ---
 
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech CSE second year student at MEC Kochi, India
+- 👨‍💻 I'm a computer science sophomore at MEC Kochi, India
 
 - 🔭 I’m currently focusing on **DSA** and **Web Development**
 
