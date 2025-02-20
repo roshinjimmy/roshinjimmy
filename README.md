@@ -14,11 +14,7 @@
 --- 
 
 ### 🔥 My Stats 
-(![roshinjimmy's Stats](https://github-readme-stats.vercel.app/api?username=roshinjimmy&theme=dark&show_icons=true&hide_border=true&count_private=true))<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=roshinjimmy&theme=default&hide_border=false)<br/>
-
-![roshinjimmy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshinjimmy&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![roshinjimmy's Stats](https://github-readme-stats.vercel.app/api?username=roshinjimmy&theme=dark&show_icons=true&hide_border=true&count_private=true)   ![roshinjimmy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshinjimmy&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
